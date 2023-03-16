@@ -3,7 +3,7 @@
 
 ---
 
-### Leonardo Mendonça
+# Leonardo Mendonça
 
 ---
 
