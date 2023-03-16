@@ -13,5 +13,13 @@
 - Sexo: Masculino
 - CNH: A/B
 
+---
+
+## Experiência
+
+- Plaqueiro de Imobiliária 
+- Vistoriador de imóveis
+- Motoboy
+
 
 
