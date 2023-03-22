@@ -1,11 +1,12 @@
+## Dados Pessoais
 
-# Curriculo
-
+- E-mail: leonardomm008@gmail.com
+- Sexo: Masculino
+- CNH: A/B
 ---
-
-# Leonardo Mendonça
-
----
+- Plaqueiro de Imobiliária 
+- Vistoriador de imóveis
+- Motoboy
 
 
 
