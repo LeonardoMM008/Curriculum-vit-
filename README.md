@@ -1,12 +1,3 @@
-
-# Curriculo
-
----
-
-### Leonardo Mendonça
-
----
-
 ## Dados Pessoais
 
 - E-mail: leonardomm008@gmail.com
